@@ -1,0 +1,19 @@
+﻿Organization,Model,MMLU Score,Release Date,Model Type
+TII,Falcon 18b,70.5,Sep-23,Open
+Cohore,Command R+,75.73,Apr-24,Open
+Qwen,Qwen1.5 72b,77.46,Nov-23,Open
+Anthropic,Claude 3 Opus,88.2,Mar-24,Closed
+OpenAI,GPT-4,86.4,Apr-23,Closed
+Google,Gemini Ultra,83.7,Dec-23,Closed
+Mistral AI,Mistral Large,81.2,Feb-24,Open
+Meta,llama3 70b,82,Apr-24,Open
+Anthropic,Claude 2,78.5,Nov-23,Closed
+Google,PaLM 2,78.3,May-23,Closed
+Google,PaLM,75.2,Apr-22,Closed
+Google,Gemini Pro,71.8,Dec-23,Closed
+Mistral AI,Mistral 8x7b,71.3,Dec-23,Open
+OpenAI,GPT-3.5,70,Nov-22,Closed
+Meta,Llama 65b,63.4,Jul-22,Open
+Mistral AI,Mistral 8x22b,78.3,Apr-24,Open
+Meta,Llama2 70b,69.7,Jul-23,Open
+Anthropic,Claude 1,77,Mar-23,Closed
