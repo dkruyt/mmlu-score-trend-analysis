@@ -2,6 +2,8 @@
 
 This project analyzes the trend of MMLU (Massive Multitask Language Understanding) scores of AI models over time. It uses data from a CSV file containing information about various AI models, their release dates, MMLU scores, and other attributes.
 
+![plot](mmlu_score_graph.png?raw=true "mmlu score")
+
 ## Dependencies
 
 - Python 3.x
